@@ -1,0 +1,118 @@
+.box{
+
+    
+    width: 24.6%;
+    float: right;
+    height: 445px;
+    margin-top: 350px;
+    border-radius: 20px;
+
+
+}
+.box-header{
+    width: auto;
+    height: 60px;
+    padding: 0px;
+   border-start-start-radius: 20px;
+    border-start-end-radius: 20px;
+    border: 1px solid gray;
+
+
+}
+.box-footer{
+    width: auto;
+    height: 40px;
+    padding: 0px;
+    margin-top: 268px;
+    border-end-start-radius: 20px;
+    border-end-end-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input{
+    width: 100%;
+    position: relative;;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    outline:darkgray;
+    border:1px solid gray;
+}
+button{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+
+}
+.img-thumbnail {
+
+    background-color:rgb(87, 223, 241);
+    border: 1px solid #dee2e6;
+    /* border-radius: 0.25rem; */
+    max-width: 15%;
+    height: 52px;
+    margin-left: 8px;
+}
+#heading{
+    text-align: center;
+    margin-top: -35px;
+    margin-right: 145px;
+
+
+}
+.icons{
+    float:right;
+    
+    margin-left: 10px;
+    margin-top: -50px;
+
+    column-gap: 10px;
+
+}
+#top{
+    size: 20px;
+    width: 18%;
+
+}
+.box-body{
+    width: auto;
+    height: 35px;
+    padding: 0px;
+
+}
+.msg{
+    text-align: center;
+    width: 95%;
+    height: 30px;
+    margin-top: 10px;
+    margin-left:10px;
+    background-color: rgb(3, 31, 83);
+}
+.rply{
+    text-align: start;
+    width: 94%;
+    height:200px ;
+    margin-top: 25px;
+    margin-left:10px;
+    
+}
+
+.table-head{
+    margin-left: 10px;
+}
+nav{
+    height: 30px;
+}
+.product{
+    height:40px ;
+    text-decoration: white;
+    padding:5px
+    ;
+
+
+
+}
